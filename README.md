@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate programmer from Spain</h3>
 
-- 🌱 I’m currently learning **C, Java and Javascript**
+- 🌱 I’m currently learning **C, C++, Spring Boot(Java) and React(JavaScript & TypeScript)**
 
 - 📫 How to reach me **marcomembrillamelgar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
