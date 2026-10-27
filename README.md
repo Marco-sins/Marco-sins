@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco Membrilla</h1>
 
-<h3 align="center">Junior Backend Developer from Spain 🇪🇸</h3>
+<h3 align="center">Backend Developer from Spain 🇪🇸</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marco-membrilla-melgar-9b4aa5321/">LinkedIn</a>
