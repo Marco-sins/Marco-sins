@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Backend Developer** from Málaga, Spain, with a strong interest in **backend development, APIs, databases and software architecture**.
+I'm a **Backend Developer** from Málaga, Spain, with a strong interest in **backend development, APIs, databases and software architecture**.
 
 I have a **Higher Technician degree in Multiplatform Application Development (DAM)** and I'm currently completing my **Web Application Development (DAW)** studies while studying at **42 Málaga**.
 
